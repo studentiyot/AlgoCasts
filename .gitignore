@@ -1,1 +1,18 @@
+# macOS
 .DS_Store
+
+# Node / JS
+node_modules/
+dist/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor / IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
